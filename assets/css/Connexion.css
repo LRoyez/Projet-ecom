@@ -46,3 +46,10 @@ input[type=submit]:hover {
     opacity: 75%;
     transition: 0.75s;
 }
+.logonavbar {
+    width: 80px;
+    height: auto;
+  }
+  #navbar {
+    height: 60px;
+  }

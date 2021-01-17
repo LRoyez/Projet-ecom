@@ -28,4 +28,10 @@ nav {
   #itemcol {
     background-color: grey;
 }
-  
+.logonavbar {
+  width: 80px;
+  height: auto;
+}
+#navbar {
+  height: 60px;
+}
